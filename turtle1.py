@@ -1,10 +1,15 @@
+"""this the python  turtle  code for grafic represent"""
+
+"""the the frist question given code"""
+
 from turtle import*
-forward(100)           """the the frist"""
+forward(100)          
 right(90)
 forward(100)
 
+"""the the second question given code"""
 
-forward(100)          # the fourth
+forward(100)         
 right(90)
 forward(100)
 right(90)
